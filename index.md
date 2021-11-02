@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Katten
+_Felis Catus_
 
-You can use the [editor on GitHub](https://github.com/AmandaHannibal/New/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Kat](https://dk.mypetandi.com/sites/g/files/adhwdz631/files/styles/paragraph_image/public/2021-03/hvordan_kan_jeg_vide_om_min_kat_har_smerter_0.jpg?itok=9MEeJOhQ)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Introduktion**
 
-### Markdown
+Tamkatten (Felis catus eller Felis silvestris catus) er et lille, tæmmet, kødædende pattedyr oftest med pels. Den kaldes huskat eller bare kat, når der ikke er grund til at skelne den fra andre kattedyr. Katten er værdsat af mennesker for dens selskab og evne til at jage mus og rotter. Mange huskatte bliver op mod 20 år gamle
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Videnskabelig Klassification
+![Kattene](https://thumb.mp-farm.com/64552482/preview.jpg)
+- **Rige:** Animalia
+- **Række:** Chordata
+- **Klasse:** Mammalia
+- **Orden:** Carnivora
+- **Familie:** Felidae
+- **Slægt:** Felis
+- **Art:** F. Catus
 
-# Header 1
-## Header 2
-### Header 3
+## Hurtige Informationer
+![Killing](https://vetgruppen.dk/wp-content/uploads/katte-dyrebehandling4.jpg)
+- **Levetid:** 2 – 16 år (I det fri)
+- **Drægtighedsperiode:** 58 – 67 dage
+- **Vægt:** 3,6 – 4,5 kg (Voksen)
+- **Hastighed:** 48 km/t (Maximum)
+- **Daglig søvnmængde:** 12 – 16 timer
+- **Højde:** 23 – 25 cm
 
-- Bulleted
-- List
+## Etymology
+![Sovendekat](https://www.agria.dk/imagevault/publishedmedia/36ldqi35kotgamhscj67/kattunge-kisar-narbild.jpg)
+Det danske ord kat er oprindeligt et låneord, der blev introduceret til mange sprog i Europa fra latin cattus og byzantinsk græsk κάτια, ligesom det var tilfældet med det engelske cat, spanske gato, franske chat, tyske Katze, litauisk katė, det oldkirkeslaviske kotka og oldnordisk kǫttr hankat; ketta hunkat/ kætte,[10] blandt andre. Den endelige kilde til ordet er afroasiatisk, antagelig fra det senegyptiske čaute, hvilket er femininum af čaus "afrikansk vildkat". Ordet blev introduceret (sammen med det tamme dyr) til den romerske befolkning omkring 100 f. Kr. Et alternativt ord med sprogligt slægtskab på mange sprog er det engelske puss (pussycat). Da det først er registreret i det 16. årh århundrede, kan det stamme fra det hollandske poes eller fra det nedertyske puuskatte, hvilket igen svarer til det svenske kattepus eller norske pus, pusekatt. Etymologien kendes ikke, men det tyder på spor af germanske sprogs navn på dette dyr.
 
-1. Numbered
-2. List
+## Kattens Anatomi
+![Anatomi](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Scheme_cat_anatomy-en.svg/1920px-Scheme_cat_anatomy-en.svg.png)
 
-**Bold** and _Italic_ and `Code` text
+## 10 Populære Katteracer
 
-[Link](url) and ![Image](src)
-```
+### 1. Maine Coone – verdens største katterace
+![MaineCoon](https://idenyt-viivilla.imgix.net/2021/03/maine-coon-katterace.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2. Norsk skovkat – den skandinaviske løve
+![NorskSkovkat](https://idenyt-viivilla.imgix.net/2021/03/norsk-skovkat.jpg)
 
-### Jekyll Themes
+### 3. British Shorthair – den blå katterace
+![BritishShorthair](https://idenyt-viivilla.imgix.net/2021/03/british-shorthair-katterace.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmandaHannibal/New/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 4. Ragdoll – den blåøjede kludedukke 
+![Ragdoll](https://idenyt-viivilla.imgix.net/2021/03/ragdoll-katterace.jpg)
 
-### Support or Contact
+### 5. Perser kat – den fladsnudede bløde katterace 
+![Perser](https://idenyt-viivilla.imgix.net/2021/03/perser-kart-race.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 6. Burmeser kat – katten med albinotræk 
+![Burmeser](https://idenyt-viivilla.imgix.net/2021/03/burmesisk-kat-katterace.jpg)
+
+### 7. Siameserkat – den thailandske racekat 
+![Siameser](https://idenyt-viivilla.imgix.net/2021/03/siamerser-kat-katterace.jpg)
+
+### 8. Hellig Birma – den tibetanske tempelkat 
+![Birma](https://idenyt-viivilla.imgix.net/2021/03/hellig-birma-kat.jpg)
+
+### 9. Russian Blue – den arkhangelske zarkat 
+![RussianBlue](https://idenyt-viivilla.imgix.net/2021/03/russian-blue-russisk-katterace.jpg)
+
+### 10. Sphynx – den hårløse katterace 
+![Sphynx](https://idenyt-viivilla.imgix.net/2021/03/sphynx-kat-korthaaret.jpg)
+
+
